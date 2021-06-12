@@ -1,2 +1,1 @@
-# Fonakart
-Created responsive website based on domestic pets.
+TinDog Starting Files
